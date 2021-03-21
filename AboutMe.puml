@@ -1,8 +1,58 @@
 @startmindmap
 
-+ Jason Wang
--- Summary
--- Skill
-++ Experience
+@startmindmap cv
++ Jason
+++ Personality
++++ Perservering
+***_:
+For things that are valuable, meaningful.
+Even if the condition is unfavorable and the resources are insufficient,
+I will move toward the goal step by step and achieve the goal.
+;
+
+++ Experiences
++++ Aqura Tech\n  維度資訊
+++++_ Staff Engineer
+++++_ Senior Server Engineer
++++ XSGames\n 向上國際
+++++_ Senior Server Engineer
+++++_ Server Engineer
+++++_ Game Logic Engineer
++++ UserJoy\n宇峻奧汀
+++++_ Programer
+
+
+-- Software Engineer
+---_ 9 year+
+
+-- Skills
+
+--- Software Engineering
+----_ UML
+----_ Design Pattern
+
+--- Database
+----_ MSSQL
+----_ PostgreSQL
+----_ Redis
+
+--- DevOps
+----_ Jenkins
+----_ Gitlab
+----_ Docker
+----_ Kubernetes
+----_ GCP
+
+--- Framework
+----_ Qt
+----_ .Net
+
+--- Language
+----_ C/C++
+----_ C#
+----_ Golang
+----_ JavaScript
+
+@endmindmap
 
 @endmindmap
